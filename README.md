@@ -1,6 +1,6 @@
 # jpa02-thomashale-ucsb
 
-Repo: https://github.com/ucsb-cs156-w22/jpa02-thomashale-ucsb
+Repo: https://jpa02-thomashale.herokuapp.com/
 
 On Heroku: https://jpa02-thomashale-ucsb.herokuapp.com/
 
